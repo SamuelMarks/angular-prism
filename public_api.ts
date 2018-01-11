@@ -1,3 +1,2 @@
-import { CodeblockModule } from './src/app/codeblock/codeblock.module';
-
-export { CodeblockModule };
+export * from './src/app/codeblock/codeblock.module';
+export * from './src/app/codeblock/codeblock.component';

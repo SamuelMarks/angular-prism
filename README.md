@@ -26,7 +26,7 @@ Often you'll need to escape characters, but it's still usable:
   #include {{ '<' }}cstdio>
 
   int main(void) {{ '{' }}
-  puts("Hello World!");
+      puts("Hello World!");
   {{ '}' }}
 </prism-codeblock>
 ```
